@@ -431,7 +431,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 2FQLKFQ5KE;
+				DEVELOPMENT_TEAM = 2HM9RVJR6V;
 				INFOPLIST_FILE = KeyboardAvoid/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.HSX.KeyboardAvoid;
@@ -445,7 +445,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 2FQLKFQ5KE;
+				DEVELOPMENT_TEAM = 2HM9RVJR6V;
 				INFOPLIST_FILE = KeyboardAvoid/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.HSX.KeyboardAvoid;
